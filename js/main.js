@@ -12,7 +12,7 @@ async function fetchRepos() {
     container.innerHTML = "";
 
     repos.forEach(repo => {
-      if (repo.fork) return; // skip forks if desired
+      //if (repo.fork) return; // skip forks if desired
 
       const card = document.createElement("div");
       card.className = "card";
