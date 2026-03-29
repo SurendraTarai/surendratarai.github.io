@@ -1,18 +1,24 @@
+
 :root {
-  --primary: #2563eb;
+  --primary: #194464;
   --bg: #f9fafb;
   --text: #111827;
 }
 
+hero { background: #194464; color: #fff; padding: 60px 0; }
+section-title { margin-top: 40px; margin-bottom: 20px; }
+card { box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+
+
 * {
-  margin: 0;
-  padding: 0;
+  margin: 20px;
+  padding: 60px;
   box-sizing: border-box;
   font-family: system-ui, sans-serif;
 }
 
 body {
-  background: var(--bg);
+  background: #f8f9fa;
   color: var(--text);
   line-height: 1.6;
 }
@@ -92,10 +98,11 @@ nav a {
 }
 
 /* Footer */
-footer {
-  text-align: center;
-  padding: 1rem;
-  background: #e5e7eb;
+footer { 
+  background: #194464; 
+  color: #fff; 
+  padding: 20px 0; 
+  margin-top: 40px; 
 }
 
 /* Mobile tweaks */
