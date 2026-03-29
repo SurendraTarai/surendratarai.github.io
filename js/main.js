@@ -1,4 +1,4 @@
-const username = "YOUR_GITHUB_USERNAME";
+const username = "SurendraTarai"; // Change to your GitHub username
 const container = document.getElementById("repo-container");
 
 async function fetchRepos() {
