@@ -5,9 +5,9 @@
   --text: #111827;
 }
 
-hero { background: #194464; color: #fff; padding: 60px 0; }
-section-title { margin-top: 40px; margin-bottom: 20px; }
-card { box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+.hero { background: #194464; color: #fff; padding: 60px 0; }
+.section-title { margin-top: 40px; margin-bottom: 20px; }
+.card { box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
 
 
 * {
