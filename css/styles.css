@@ -18,8 +18,8 @@ body {
   line-height: 1.6;
 }
 
-.hero { background: #194464; color: #fff; padding: 60px 0; }
-.section-title { margin-top: 40px; margin-bottom: 20px; }
+.hero { background: #194464; color: #fff; padding: 5px 0; }
+.section-title { margin-top: 5px; margin-bottom: 5px; }
 .card { box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
 
 /* Header */
@@ -48,7 +48,7 @@ nav a {
 
 /* Sections */
 .container {
-  padding: 2rem 1rem;
+  padding: 1rem 1rem;
   max-width: 1000px;
   margin: auto;
 }
@@ -100,8 +100,8 @@ nav a {
 footer { 
   background: #194464; 
   color: #fff; 
-  padding: 20px 0; 
-  margin-top: 40px; 
+  padding: 10px 0; 
+  margin-top: 10px; 
 }
 
 /* Mobile tweaks */
